@@ -1,3 +1,3 @@
 # officialwebsite
 
-![checkout](images/filename20%checkout.webp)
+![checkout](images/checkout.webp)
